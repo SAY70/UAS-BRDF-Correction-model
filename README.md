@@ -50,8 +50,7 @@ python main.py
 ## 🤝 Contributing
 We welcome contributions! Feel free to submit pull requests or open issues.
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
 
 ---
 🌟 **Star this repository** if you find it useful!
